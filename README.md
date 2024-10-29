@@ -49,7 +49,7 @@ The project can be run as an R script, and all the outputs including visualizati
 3. The results will be displayed in the console and graphical windows.
 
 ```bash
-git clone https://github.com/urstrulyrithik/Text_Analytics
+git clone https://github.com/urstrulyrithik/Text-Analytics
 cd Text-Analytics-Networking-Project
 ```
 
